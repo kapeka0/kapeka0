@@ -52,8 +52,8 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/kapeka0/output/github-snake.svg)
+ 
 
-<img src="https://raw.githubusercontent.com/kapeka0/kapeka0/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/kapeka0/kapeka0/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
