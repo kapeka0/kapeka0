@@ -2,7 +2,7 @@
 - Security developer
 - Software researcher
 
-Sometimes I put some stuff in https://kapeka.dev
+Sometimes I push stuff in [kapeka.dev](https://kapeka.dev)
 
  
 
